@@ -228,6 +228,10 @@ header {
     color: #476DB6;
 }
 
+.workcontent a:hover {
+    text-decoration: underline;
+}
+
 .worktitles{
     background-color: #B7C9ED;
     margin-right: 15px;
@@ -287,4 +291,28 @@ header {
 }
 .course p strong{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#misc {
+    padding-top: 8px;
+    padding-left: 23px;
+    padding-right: 23px;
+}
+
+#misc p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#misc a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #476DB6;
+}
+
+#misc a:hover {
+    text-decoration: underline;
+}
+
+.video iframe{
+    padding-top: 20px;
+    margin-left: 50px;
 }
