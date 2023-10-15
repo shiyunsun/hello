@@ -316,6 +316,10 @@ header {
     margin-top: 0.15cm;
 }
 
+.floatright {
+    float:right;
+}
+
 .video iframe{
     padding-top: 20px;
     margin-left: 50px;
