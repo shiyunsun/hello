@@ -312,6 +312,10 @@ header {
     text-decoration: underline;
 }
 
+#maclist {
+    margin-top: 0.15cm;
+}
+
 .video iframe{
     padding-top: 20px;
     margin-left: 50px;
